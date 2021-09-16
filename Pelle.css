@@ -1,0 +1,15 @@
+/* Selector */
+h1 {
+  color: orange
+}
+
+body {
+  font-size: 1.7rem;
+  font-family: verdana, sans-serif;
+  background-color: #3CB371
+}
+
+p {
+  font-size: 1.3rem;
+  color: White
+}
